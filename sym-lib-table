@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SF17010F-0302-21R-L-011")(type "KiCad")(uri "${KIPRJMOD}/libraries/SF17010F-0302-21R-L-011/SF17010F-0302-21R-L-011.kicad_sym")(options "")(descr ""))
+)
